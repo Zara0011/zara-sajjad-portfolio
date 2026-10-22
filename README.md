@@ -20,9 +20,9 @@ An AI-powered attendance system designed to recognize students' faces and automa
 ## Portfolio Website
 Explore my projects, technical skills, and professional profile:
 
-[**Visit My Portfolio Website**](YOUR-PORTFOLIO-LINK)
+[Visit My Portfolio Website](https://zara0011.github.io/zara-sajjad-portfolio/)
 
 ## Contact
-- LinkedIn: https://www.linkedin.com/in/zara-sajjad-196b91377/
+- LinkedIn: https://www.linkedin.com/in/zara-sajjad-196b91377
 - GitHub: https://github.com/Zara0011
 
